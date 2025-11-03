@@ -11,25 +11,25 @@
   <a href="https://huggingface.co/2Damnwav"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace"></a>
 </p>
 
-📍 Karachi, Pakistan | ☎️ +92 333 0214897
+Karachi, Pakistan | +92 333 0214897
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
 AI Systems Engineer with **2+ years** of production experience building and deploying large-scale NLP and multimodal systems. Specialized in transformer architectures, distributed training, and MLOps pipelines.
 
 **Key Achievements:**
-- ⚡ Reduced inference latency by **60%** through Kubernetes optimization
-- 💰 Cut infrastructure costs by **25%** via model quantization and orchestration
-- 🎯 Achieved **85%** decision accuracy in real-time AI trading systems
-- 📈 Serving **100K+** daily requests across production STT/TTS systems
+- Reduced inference latency by **60%** through Kubernetes optimization
+- Cut infrastructure costs by **25%** via model quantization and orchestration
+- Achieved **85%** decision accuracy in real-time AI trading systems
+- Serving **100,000+** daily requests across production STT/TTS systems
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ AI Systems Engineer with **2+ years** of production experience building and depl
 ### ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000)
+![JAX](https://img.shields.io/badge/JAX-8A2BE2?style=flat)
 
 </td>
 <td valign="top" width="33%">
@@ -61,120 +61,140 @@ AI Systems Engineer with **2+ years** of production experience building and depl
 </table>
 
 **NLP & LLMs:** BERT • Gemma • Whisper • Mixtral • Llama • LangChain • Custom Tokenizers  
-**MLOps:** MLflow • Weights & Biases • ONNX • TorchServe • CI/CD • Model Monitoring  
+**MLOps & Deployment:** MLflow • Weights & Biases • ONNX • TorchServe • CI/CD • Model Monitoring  
 **Data Systems:** PostgreSQL • Redis • FAISS • Chroma • Pinecone • Airflow  
-**Backend:** FastAPI • Flask • Django • Microservices • gRPC • REST APIs
+**Backend Development:** FastAPI • Flask • Django • Microservices • gRPC • REST APIs
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### <img src="https://img.shields.io/badge/AI_Engineer-Nova_Tech-blue?style=flat" alt="Nova Tech">
-**Dubai, UAE (Remote)** | *June 2025 – Present*
+### AI Engineer | Nova Tech
+**Dubai, UAE (Remote)** | June 2025 – Present
+
+<details>
+<summary><b>View Impact Metrics</b></summary>
 
 ```
-🎯 Multi-Agent Trading System | 85% Decision Accuracy
-⚡ Kubernetes Pipeline Optimization | 60% Latency Reduction
-🔐 AI Governance Framework | MAS & DFSA Compliant
-📊 Dynamic Portfolio Optimization | 35% Risk Reduction
+Multi-Agent Trading System        | 85% Decision Accuracy
+Kubernetes Pipeline Optimization  | 60% Latency Reduction
+AI Governance Framework          | MAS & DFSA Compliant
+Dynamic Portfolio Optimization   | 35% Risk Reduction
 ```
+</details>
 
 - Architected multi-agent AI trading system processing real-time market feeds across equity and cryptocurrency markets
-- Reduced distributed inference latency by 60% under peak load through Kubernetes-based pipeline optimization
-- Designed AI governance framework ensuring compliance with UAE financial regulations for institutional trading
+- Reduced distributed inference latency by 60% under peak load through Kubernetes-based pipeline optimization and dynamic resource allocation
+- Designed AI governance framework ensuring compliance with UAE financial regulations for institutional trading operations
 - Implemented dynamic agent orchestration system reducing risk exposure by 35% while maintaining target returns
 
-### <img src="https://img.shields.io/badge/NLP_Engineer-Proxima_AI-green?style=flat" alt="Proxima AI">
-**Pakistan** | *August 2023 – Present*
+### NLP Engineer | Proxima AI
+**Pakistan** | August 2023 – Present
+
+<details>
+<summary><b>View Impact Metrics</b></summary>
 
 ```
-🎤 Urdu STT/TTS Production Stack | 100K+ Daily Requests
-🖼️ Stable Diffusion Cluster | 10K+ Images/Day @ 99.9% Uptime
-💰 Infrastructure Cost Optimization | 25% Reduction
-👥 Team Leadership | 30% Velocity Improvement
-🎯 Custom Whisper ASR | 9.1% WER @ 3× Faster
+Urdu STT/TTS Production Stack     | 100K+ Daily Requests
+Stable Diffusion Cluster          | 10K+ Images/Day @ 99.9% Uptime
+Infrastructure Cost Optimization  | 25% Reduction
+Team Leadership                   | 30% Velocity Improvement
+Custom Whisper ASR                | 9.1% WER @ 3× Faster
 ```
+</details>
 
-- Built production Urdu STT/TTS stack serving 100,000+ daily requests with 50% lower latency
+- Built production Urdu STT/TTS stack serving 100,000+ daily requests with 50% lower latency compared to baseline multilingual models
 - Engineered Stable Diffusion inference cluster handling 10,000+ image generation requests daily with 99.9% uptime
-- Reduced infrastructure costs by 25% through model quantization, mixed precision, and spot instance orchestration
-- Led team of 5 engineers, improving sprint velocity by 30% and achieving zero critical production bugs
-- Deployed custom Whisper-based ASR achieving 9.1% WER, 3× faster than baseline implementation
+- Reduced infrastructure costs by 25% through model quantization, mixed precision training, and spot instance orchestration on AWS
+- Led team of 5 engineers, improving sprint velocity by 30% and achieving zero critical production bugs over 6-month period
+- Deployed custom Whisper-based ASR achieving 9.1% WER on UrduCommonVoice dataset, 3× faster than baseline implementation
 
-### <img src="https://img.shields.io/badge/Data_Research_Analyst-Technexia-orange?style=flat" alt="Technexia">
-**Pakistan** | *January 2023 – June 2023*
+### Data Research Analyst | Technexia
+**Pakistan** | January 2023 – June 2023
+
+<details>
+<summary><b>View Impact Metrics</b></summary>
 
 ```
-📊 Data Ingestion System | 1M+ Records/Month
-📈 Real-Time Analytics Dashboards | C-Suite Strategic Planning
-⚡ ETL Pipeline Optimization | 40% Processing Time Reduction
+Data Ingestion System             | 1M+ Records/Month
+Real-Time Analytics Dashboards    | C-Suite Strategic Planning
+ETL Pipeline Optimization         | 40% Processing Time Reduction
 ```
+</details>
 
-- Developed fault-tolerant data ingestion system processing 1 million+ records monthly
-- Built real-time analytics dashboards enabling C-suite to track KPIs and inform quarterly strategic planning
-- Optimized ETL pipelines reducing data processing time by 40% through parallel processing
+- Developed fault-tolerant data ingestion system processing 1 million+ records monthly with automated validation and error recovery
+- Built real-time analytics dashboards using React and FastAPI, enabling C-suite to track KPIs and inform quarterly strategic planning
+- Optimized ETL pipelines reducing data processing time by 40% through parallel processing and incremental loading strategies
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔤 [TinyGemma-Urdu](https://github.com/your-username/tinygemma-urdu)
-**0.96M Parameter Urdu LLM**
+### <a href="https://github.com/your-username/tinygemma-urdu">TinyGemma-Urdu</a>
+**0.96M Parameter Urdu Language Model**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LoRA](https://img.shields.io/badge/LoRA-FFD700?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000)
 
-- **+12% BLEU** over mT5-small
-- Trained on **8× A100** in <6 hours
-- Custom BPE tokenizer
-- Distributed data parallel
+**Key Results:**
+- 12% BLEU improvement over mT5-small
+- Trained on 8× A100 GPUs in under 6 hours
+- Custom BPE tokenizer with 30K vocabulary
+- Distributed data parallel training
 
 </td>
 <td width="50%">
 
-### 🎤 [Whisper-Urdu-PyTorch](https://github.com/your-username/whisper-urdu-pytorch)
+### <a href="https://github.com/your-username/whisper-urdu-pytorch">Whisper-Urdu-PyTorch</a>
 **Optimized Urdu Speech Recognition**
 
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-- **3× inference speedup**
-- **9.1% WER** on UrduCommonVoice
-- ONNX quantization
-- Custom CUDA kernels
+**Key Results:**
+- 3× inference speedup through optimization
+- 9.1% WER on UrduCommonVoice dataset
+- ONNX quantization and custom CUDA kernels
+- Production-ready deployment pipeline
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📚 [Urdu-BERT](https://github.com/your-username/urdu-bert)
-**From-Scratch BERT Model**
+### <a href="https://github.com/your-username/urdu-bert">Urdu-BERT</a>
+**From-Scratch BERT Pretraining**
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000)
-![DDP](https://img.shields.io/badge/DDP-EE4C2C?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![DDP](https://img.shields.io/badge/Distributed_Training-EE4C2C?style=flat)
 
-- **94% accuracy** sentiment classification
-- **+8%** vs multilingual models
+**Key Results:**
+- 94% accuracy on sentiment classification
+- 8% improvement over multilingual models
 - 30K custom BPE vocabulary
-- 4-GPU distributed training
+- 4-GPU distributed training setup
 
 </td>
 <td width="50%">
 
-### 🧠 [SmolUrixtral](https://github.com/your-username/smolurixtral)
-**Efficient Mixture-of-Experts**
+### <a href="https://github.com/your-username/smolurixtral">SmolUrixtral</a>
+**Efficient Mixture-of-Experts Architecture**
 
-![Mixtral](https://img.shields.io/badge/Mixtral-000000?style=flat)
+![Mixtral](https://img.shields.io/badge/Mixtral_MoE-000000?style=flat)
 ![FlashAttention](https://img.shields.io/badge/FlashAttention-FF6B6B?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-- **40% compute reduction**
-- **<50ms/token** on CPU
-- Dynamic expert routing
+**Key Results:**
+- 40% compute reduction vs baseline
+- Sub-50ms per token generation on CPU
+- Dynamic expert routing implementation
 - FlashAttention optimization
 
 </td>
@@ -182,30 +202,34 @@ AI Systems Engineer with **2+ years** of production experience building and depl
 <tr>
 <td width="50%">
 
-### 👔 [AI HR Copilot](https://github.com/your-username/ai-hr-copilot)
-**RAG-Based HR Automation**
+### <a href="https://github.com/your-username/ai-hr-copilot">AI HR Copilot</a>
+**RAG-Based Enterprise Automation**
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat)
 
-- **90% automation** of HR queries
-- **75% faster** query resolution
-- RAG architecture
-- HRIS integration
+**Key Results:**
+- 90% automation of routine HR queries
+- 75% faster query resolution time
+- Retrieval-Augmented Generation architecture
+- Custom HRIS integration layer
 
 </td>
 <td width="50%">
 
-### 🏏 [Live Cricket Commentary](https://github.com/your-username/cricket-commentary)
-**Real-Time Sports Analysis**
+### <a href="https://github.com/your-username/cricket-commentary">Live Cricket Commentary</a>
+**Real-Time Sports Analysis System**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge_Deployment-00D8FF?style=flat)
+![TTS](https://img.shields.io/badge/TTS-4285F4?style=flat)
 
-- **<1s latency** commentary
-- Computer vision tracking
-- LLM narrative generation
-- Jetson Nano deployment
+**Key Results:**
+- Sub-1 second latency for live commentary
+- Computer vision-based player tracking
+- LLM-powered narrative generation
+- Edge deployment on Jetson Nano
 
 </td>
 </tr>
@@ -213,61 +237,73 @@ AI Systems Engineer with **2+ years** of production experience building and depl
 
 ---
 
-## 🌟 Open Source & Community
+## Open Source Contributions
 
 <div align="center">
 
-[![HuggingFace](https://img.shields.io/badge/🤗_Maintainer-50K+_Downloads-FFD21E?style=for-the-badge)](https://huggingface.co/2Damnwav)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
-[![Papers](https://img.shields.io/badge/ACL_Anthology-3_Papers-B31B1B?style=for-the-badge)](https://aclanthology.org)
+![Maintainer](https://img.shields.io/badge/HuggingFace_Maintainer-10+_Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![Kaggle](https://img.shields.io/badge/Kaggle_Expert-Top_1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Publications](https://img.shields.io/badge/ACL_Anthology-3_Papers-B31B1B?style=for-the-badge)
 
 </div>
 
-- **🤗 Hugging Face Maintainer:** Published 10+ production models under 2Damnwav organization
-- **🏆 Kaggle Expert:** Top 1% ranking | 50,000+ notebook views on LLM optimization
-- **🎤 Conference Speaker:** "Scaling Transformers for Low-Resource Languages" @ SMIU AI Conference 2025
-- **📄 Publications:** 3 papers in ACL Anthology and arXiv on Urdu NLP and efficient MoE architectures
+**Hugging Face Ecosystem**  
+Published 10+ production-ready models (ASR, TTS, LLMs) under 2Damnwav organization with 50,000+ downloads
+
+**Kaggle Platform**  
+Top 1% ranking with 50,000+ notebook views focusing on LLM fine-tuning and optimization techniques
+
+**Conference Speaking**  
+Presented "Scaling Transformers for Low-Resource Languages" at SMIU AI Conference 2025
+
+**Academic Publications**  
+3 papers published in ACL Anthology and arXiv on Urdu NLP and efficient Mixture-of-Experts architectures
 
 ---
 
-## 🎓 Education
+## Education
 
-**Bachelor of Science in Computer Science** | *Expected August 2028*  
-University of Karachi | **GPA: 3.8/4.0**  
-*Relevant Coursework: Distributed Systems • Compiler Design • Advanced ML • NLP*
+**Bachelor of Science in Computer Science** | Expected August 2028  
+University of Karachi | GPA: 3.8/4.0  
+*Relevant Coursework: Distributed Systems, Compiler Design, Advanced Machine Learning, Natural Language Processing*
 
-**Diploma in Computer Information Technology** | *2023*  
+**Diploma in Computer Information Technology** | 2023  
 Aligarh Institute of Technology
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-Advanced_Transformers-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/AWS-Production_ML-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/IBM-Deep_Learning-054ADA?style=flat&logo=ibm&logoColor=white" alt="IBM">
+  <img src="https://img.shields.io/badge/Google_Cloud-Advanced_Transformer_Models-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/AWS-Production_Machine_Learning-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/IBM-Deep_Learning_Systems-054ADA?style=flat&logo=ibm&logoColor=white" alt="IBM">
 </p>
 
 ---
 
-## 🏆 Leadership & Impact
+## Leadership & Technical Impact
 
-```diff
-+ Mentored 3 junior engineers to production deployment | 40% faster time-to-productivity
-+ Established code review standards | 70% reduction in production incidents
-+ Led on-call rotation | 99.9% uptime SLA | 65% P99 latency reduction
-```
+**Team Development**  
+Mentored 3 junior engineers from onboarding to independent production deployment, reducing time-to-productivity by 40%
+
+**Engineering Standards**  
+Established code review protocols and testing standards, reducing production incidents by 70% over 6-month period
+
+**System Reliability**  
+Led on-call rotation for production systems, maintaining 99.9% uptime SLA and reducing P99 latency by 65%
 
 ---
 
-## 📊 GitHub Stats
+## Performance Metrics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=c9d1d9&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3498db&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3498db&text_color=c9d1d9&hide=html,css)
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3498db&fire=3498db&currStreakLabel=c9d1d9)
 
 </div>
 
@@ -275,18 +311,18 @@ Aligarh Institute of Technology
 
 <div align="center">
 
-### 💬 Let's Connect
+### Professional Opportunities
 
-Open to opportunities in **AI Systems Engineering**, **MLOps**, and **Applied Research**
+Available for roles in **AI Systems Engineering**, **MLOps**, and **Applied Machine Learning Research**
 
-**Available:** Q1 2026 | **Open to Relocation**
+**Availability:** Q1 2026 | **Relocation:** Open to opportunities worldwide
 
 <p>
   <a href="https://www.linkedin.com/in/muhammad-mahwiz-khalil">
-    <img src="https://img.shields.io/badge/Schedule_a_Call-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:khalilmahwiz@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
