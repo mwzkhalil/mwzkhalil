@@ -1,101 +1,104 @@
 <div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" width="400">
+</div>
 
-# ✨ Muhammad Mahwiz Khalil  
-**AI Systems Engineer**
+<div align="center">
+<h1>Mahwiz Khalil</h1>
+<p><b>AI Engineer | LLM & Speech Specialist</b></p>
+<p>Karachi, Pakistan · <a href="mailto:mahwiz@proxima.ai">mahwiz@proxima.ai</a> · <a href="https://github.com/mahwizkhalil">GitHub</a> · <a href="https://linkedin.com/in/mahwizkhalil">LinkedIn</a></p>
+</div>
 
-📍 Karachi, Pakistan | 📧 [khalilmahwiz@gmail.com](mailto:khalilmahwiz@gmail.com) | 📞 +92 333 0214897  
+<hr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mahwiz-khalil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/2Damnwav)
+<div align="center">
+<p><i>Building intelligent multilingual systems with LLMs, Speech AI, and low-resource language research.</i></p>
+<p>Currently at <b>Proxima AI</b> — working on RAG, Speech, and LLaMA-based fine-tuning.</p>
+</div>
 
----
+<hr>
 
-### 🖋️ Professional Summary
+<h2 align="center">Core Skills</h2>
 
-> 2+ years of experience building and deploying production-grade NLP and multimodal AI systems.  
-> Specialized in **transformer architectures**, **speech AI**, and **LLM pipelines** with a focus on **latency optimization** and **cost efficiency**.
+<div align="center">
 
-**Achievements**
-- ⚙️ Reduced inference latency by **60%** via Kubernetes optimization  
-- 💸 Cut infrastructure costs by **25%** using model quantization  
-- 🗣️ Built Urdu STT/TTS stack serving **100K+ daily requests**  
+| Category | Technologies / Tools |
+|-----------|----------------------|
+| **LLM & RAG** | LangChain, LlamaIndex, Ollama, HuggingFace Transformers |
+| **Speech AI** | Whisper, RNNoise, ESPNet, TTS pipelines |
+| **Programming** | Python, Java, SQL, JavaScript |
+| **Cloud / DevOps** | AWS, DigitalOcean, Docker |
+| **Frameworks** | Streamlit, Django, React, FastAPI |
+| **Databases** | MySQL, PostgreSQL, Pinecone, Chroma |
 
----
+</div>
 
-### 🧠 Technical Skills
+<hr>
 
-| Category | Skills |
-|-----------|---------|
-| **Languages** | Python • C • SQL |
-| **Frameworks** | PyTorch • TensorFlow • JAX |
-| **MLOps** | MLflow • W&B • TorchServe • CI/CD |
-| **Data Systems** | PostgreSQL • Redis • FAISS • Chroma |
-| **Backend** | FastAPI • Flask • Django |
-| **Cloud** | AWS • Docker • Kubernetes |
+<h2 align="center">Experience</h2>
 
----
+<div align="center">
+<p><b>Proxima AI — NLP/ML Engineer</b></p>
+<p><i>2023 – Present · Karachi, Pakistan</i></p>
+</div>
 
-### 💼 Experience
+- Designed multi-modal RAG systems integrating text, speech, and vision.  
+- Fine-tuned LLaMA-based Urdu models for legal and paraphrasing tasks.  
+- Deployed speech-to-text and LLM chatbots on AWS and DigitalOcean.  
+- Built SQL Query Agents using LangChain and Hugging Face models.
 
-**AI Engineer — Nova Tech** (Dubai, Remote)  
-*June 2025 – Present*  
-- Architected multi-agent trading system (85% decision accuracy)  
-- Reduced latency by 60% via Kubernetes optimization  
-- Developed AI governance framework for regulated trading  
+<hr>
 
-**NLP Engineer — Proxima AI** (Pakistan)  
-*Aug 2023 – Present*  
-- Deployed Urdu STT/TTS stack (100K+ daily users)  
-- Cut infra costs by 25% using quantization and mixed precision  
-- Led team of 5 engineers with 30% sprint velocity boost  
+<h2 align="center">Education</h2>
 
-**Data Research Analyst — Technexia** (Pakistan)  
-*Jan 2023 – Jun 2023*  
-- Built ingestion system handling 1M+ monthly records  
-- Created real-time analytics dashboards for executive planning  
+<div align="center">
+<p><b>Bachelor’s in Computer Science</b></p>
+<p><i>Ongoing — Focus: Artificial Intelligence, Natural Language Processing</i></p>
+</div>
 
----
+<hr>
 
-### 🧩 Featured Projects
+<h2 align="center">Projects</h2>
 
-| Project | Description |
-|----------|--------------|
-| **[TinyGemma-Urdu](https://github.com/your-username/tinygemma-urdu)** | 0.96M-param Urdu LLM with 12% BLEU improvement and custom tokenizer |
-| **[Whisper-Urdu-PyTorch](https://github.com/your-username/whisper-urdu-pytorch)** | Optimized Urdu ASR with 3× faster inference and 9.1% WER |
-| **[AI HR Copilot](https://github.com/your-username/ai-hr-copilot)** | RAG-based HR automation reducing query time by 75% |
+- **PakLawMa** — LLaMA specialized for Pakistan Law.  
+- **Urdu BERT & Paraphraser** — Custom Hugging Face models for Urdu NLP.  
+- **Metutors Bot** — AI assistant for teachers and students.  
+- **Bizpulse** — Business analytics app with natural language query interface.
 
----
+<hr>
 
-### 🌍 Open Source & Recognition
+<h2 align="center">Certifications</h2>
 
-- 🧩 Published **10+ models** on [Hugging Face (2Damnwav)](https://huggingface.co/2Damnwav)  
-- 🏆 **Top 1%** Kaggle Expert — 50K+ notebook views  
-- 🎙️ Speaker — *SMIU AI Conference 2025* (“Scaling Transformers for Low-Resource Languages”)  
-- 📜 3 papers published in ACL Anthology & arXiv  
+- AWS Cloud Practitioner *(in progress)*  
+- DeepLearning.AI — Generative AI with LLMs  
+- Coursera — LangChain for LLM Applications  
 
----
+<hr>
 
-### 🎓 Education
+<h2 align="center">Languages</h2>
 
-**BSc Computer Science**, *University of Karachi* — *Expected Aug 2028*  
-**Diploma in Computer Information Technology**, *Aligarh Institute of Technology (2023)*  
+<div align="center">
+<p>Urdu — Native · English — Proficient</p>
+</div>
 
-**Certifications:**  
-Google Cloud — Advanced Transformer Models  
-AWS — Production Machine Learning  
-IBM — Deep Learning Systems  
+<hr>
 
----
+<h2 align="center">Interests</h2>
 
-### 💡 Currently Open To
+<div align="center">
+<p>Minimal UI Design · Research Writing · Open-source Urdu AI · Mentorship</p>
+</div>
 
-> Roles in **AI Systems Engineering**, **MLOps**, and **Applied Machine Learning Research**  
-> **Availability:** Q1 2026 | **Relocation:** Open Worldwide  
+<hr>
 
----
+<div align="center">
+<p>Thanks for visiting my profile!</p>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" width="80">
+</div>
 
-⭐ *“Code like a poet, deploy like an engineer.”*  
-_Last updated: November 2025_
+<div align="center">
+<img src="https://profile-counter.glitch.me/mahwizkhalil/count.svg" alt="Profile Views">
+</div>
 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
 </div>
